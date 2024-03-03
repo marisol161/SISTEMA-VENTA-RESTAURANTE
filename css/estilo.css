@@ -1,0 +1,15 @@
+.cla{
+    background-image: url(/chef.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.somos{
+    text-align: justify;
+    line-height: 2em;
+}
+.llegar{
+    text-align: justify;
+    line-height: 2em;
+}
+
